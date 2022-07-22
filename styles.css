@@ -1,0 +1,40 @@
+body {
+  font-family: 'Courier New';
+  color: white;
+  background-color: #1C180C;
+}
+
+#image {
+  width: 100%;
+  max-width: 100%;
+  display: block;
+  height: auto;
+  border-radius: 100%;
+  /*box-shadow: 10px 5px 5px #133245;*/
+}
+
+h1 {
+  text-align: center;
+  
+}
+
+h1, h3 {
+  border-top: solid black;
+  border-bottom: solid black;
+  background-color: #292e30;
+}
+
+.bold {
+  font-weight: bold;
+  display: inline-block;
+}
+
+.italic {
+  font-style: italic;
+  
+  text-align: center;  
+}
+
+a {
+  text-decoration: none;
+}
